@@ -1,0 +1,29 @@
+overlay {
+    background-attachment: fixed;
+    background-image: radial-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), radial-gradient(rgba(0, 0, 0, 0) 33%, rgba(0, 0, 0, 0.3) 166%);
+    background-position-y: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    transition: opacity 0.3s linear 0s;
+    width: 100%;
+}
+constructed stylesheet
+:host {
+    --direction: ltr;
+}
+constructed stylesheet
+:host {
+    --direction: ltr;
+}
+constructed stylesheet
+:host {
+    background-color: var(--fill-color);
+    color: var(--neutral-foreground-rest);
+}
+constructed stylesheet
+:host {
+   
